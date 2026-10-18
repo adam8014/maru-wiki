@@ -1,6 +1,7 @@
 module.exports={guide:[
 {type:'category',label:'🌸 시작하기',collapsed:false,items:['intro','start/connect','start/starter','start/resources','start/first-day']},
 {type:'category',label:'🎣 낚시',collapsed:false,items:['content/fishing','content/pyro-fish-catalog','content/maru-fish-catalog','content/fishing-totem','content/fishing-deliveries']},
+{type:'category',label:'🍳 요리',collapsed:false,items:['content/cooking']},
 {type:'category',label:'🌾 농사',collapsed:false,items:['content/farming']},
 {type:'category',label:'📈 스킬과 성장',collapsed:false,items:['content/mcmmo']},
 {type:'category',label:'🎮 미니게임',collapsed:false,items:['content/minigames','content/weapons','content/tntrun','content/bedwars']},
