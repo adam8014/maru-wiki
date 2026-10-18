@@ -5,7 +5,7 @@ import styles from './index.module.css';
 const cards = [
   ['🌱','처음 시작하기','접속부터 첫날 생존까지','/guide/intro'],
   ['🏆','mcMMO 성장','스킬과 능력을 익히는 방법','/guide/content/mcmmo'],
-  ['🎣','PyroFishingPro 낚시','커스텀 물고기 22종, 토템, 미끼와 배달','/guide/content/fishing'],
+  ['🎣','PyroFishingPro 낚시','한국 물고기 24종, 토템, 미끼와 배달','/guide/content/fishing'],
   ['🔎','기록 조사','CoreProtect로 블록 로그 확인','/guide/systems/coreprotect'],
   ['🎮','미니게임','CS어택 · TNT런 · 배드워즈','/guide/content/minigames'],
   ['⌨️','명령어 모음','필요한 명령어를 빠르게 찾기','/guide/help/commands']
