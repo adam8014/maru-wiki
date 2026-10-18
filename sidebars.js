@@ -5,6 +5,6 @@ module.exports={guide:[
 {type:'category',label:'🌾 농사',collapsed:false,items:['content/farming']},
 {type:'category',label:'📈 스킬과 성장',collapsed:false,items:['content/mcmmo']},
 {type:'category',label:'🎮 미니게임',collapsed:false,items:['content/minigames','content/weapons','content/tntrun','content/bedwars']},
-{type:'category',label:'🧰 보호와 편의',items:['content/villagers','systems/coreprotect','systems/map']},
+{type:'category',label:'🧰 보호와 편의',items:['systems/residence','content/villagers','systems/coreprotect','systems/map']},
 {type:'category',label:'📖 도움말',items:['help/commands','help/faq']}
 ]};
