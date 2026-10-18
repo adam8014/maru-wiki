@@ -12,6 +12,22 @@ title: 유저 명령어 모음
 | `/mctop` | mcMMO 랭킹 확인 | mcMMO 기본 명령어 |
 | `/mcability` | mcMMO 특수 능력 설정 | 권한에 따라 다름 |
 
+## 🎣 커스텀 낚시
+
+| 명령어 | 하는 일 |
+|---|---|
+| `/fish menu` | 낚시 메인 메뉴 |
+| `/fish codex` | 커스텀 물고기 도감 |
+| `/fish stats` | 낚시 레벨 확인 |
+| `/fish deliveries` | 배달 의뢰 확인 |
+
+## 🎮 미니게임
+
+| 명령어 | 하는 일 |
+|---|---|
+| `/cs어택` | CS어택 메뉴 열기 |
+| `/cs어택 leave` | CS어택에서 나가기 |
+
 ## 함께 읽어보세요
 
 - [블록 기록 확인하기](/guide/systems/coreprotect)
