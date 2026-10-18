@@ -18,7 +18,8 @@ const config = {
       title: '🌸 MARU WIKI',
       items: [
         { to: '/guide/intro', label: '시작하기', position: 'left' },
-        { to: '/guide/content/mcmmo', label: '게임 콘텐츠', position: 'left' },
+        { to: '/guide/content/fishing', label: '낚시', position: 'left' },
+        { to: '/guide/content/minigames', label: '미니게임', position: 'left' },
         { to: '/guide/help/commands', label: '명령어', position: 'left' },
         { href: 'https://github.com/adam8014/maru-wiki', label: 'GitHub', position: 'right' }
       ]
