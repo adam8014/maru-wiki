@@ -144,6 +144,26 @@ TNT런과 배드워즈의 참가 방법은 각 게임 안내를 확인하세요.
 
 [🎮 미니게임 가이드](/guide/content/minigames)
 
+## 🏡 Residence 땅 보호
+
+| 명령어 | 설명 |
+|---|---|
+| `/res ?` | 레지던스 명령어 도움말 |
+| `/res select size` | 현재 선택한 땅 크기 확인 |
+| `/res select vert` | 선택 영역을 위아래로 확장 |
+| `/res create 우리집` | 선택한 땅 보호하기 |
+| `/res info` | 현재 땅의 소유자와 권한 확인 |
+| `/res list` | 내가 보호한 땅 목록 |
+| `/res limits` | 내가 보호할 수 있는 땅 한도 |
+| `/res pset 친구닉네임 trusted true` | 친구에게 신뢰 권한 허용 |
+| `/res pset 친구닉네임 trusted false` | 신뢰 권한 제한 |
+| `/res remove 우리집` | 보호 해제 요청 |
+| `/res confirm` | 보호 해제 확인 |
+
+**땅 보호하는 방법:** 영역 선택 도구로 모서리 두 곳 지정 → `/res select size` 확인 → `/res create 우리집` 입력. 선택 도구와 보호 크기는 서버 설정에 따라 달라요.
+
+[🏡 **Residence 땅 보호 상세 사용법과 영상 찾아보기**](/guide/systems/residence)
+
 ## 🔎 블록 기록 조사 — CoreProtect
 
 마루에서는 **일반 유저도** 블록 기록을 조사할 수 있어요.
