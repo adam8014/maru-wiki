@@ -17,7 +17,7 @@ sidebar_position: 1
 4. [첫날 생존 가이드](./start/first-day.md) — **생존부터 첫 집 보호까지 전체 순서**
 5. [낚시 입문](./content/fishing.md) / [농사 시작](./content/farming.md) — 음식 재료 구하기
 6. [마루 요리 50종](./content/cooking.md) — 요리책 확인 후 제작대에서 만들어 먹기
-7. [경제·거래소 사용](./start/first-day.md#4--마루-경제-시작하기) — 자원과 다이아몬드로 거래 시작하기
+7. [활동 보상으로 돈 벌기](./content/activity-rewards.md) — 채굴·제작·낚시·이동으로 돈을 모으고 거래소도 이용하기
 8. [Residence 땅 보호](./systems/residence.md) — 집터를 고른 뒤 보호 영역 만들기
 9. [유저 명령어](./help/commands.md) — `/sethome`, `/home`, `/tpa` 등 이용하기
 
