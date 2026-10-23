@@ -3,6 +3,7 @@ module.exports={guide:[
 {type:'category',label:'🎣 낚시',collapsed:false,items:['content/fishing','content/pyro-fish-catalog','content/maru-fish-catalog','content/fishing-totem','content/fishing-deliveries']},
 {type:'category',label:'💰 돈 벌기',collapsed:false,items:['content/activity-rewards']},
 {type:'category',label:'🍳 요리',collapsed:false,items:['content/cooking']},
+{type:'category',label:'🐾 야생동물',collapsed:false,items:['content/wildlife']},
 {type:'category',label:'🌾 특수작물',collapsed:false,items:['content/farming']},
 {type:'category',label:'📈 스킬과 성장',collapsed:false,items:['content/mcmmo']},
 {type:'category',label:'🎮 미니게임',collapsed:false,items:['content/minigames','content/weapons','content/tntrun','content/bedwars']},
