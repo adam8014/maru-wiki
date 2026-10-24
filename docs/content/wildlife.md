@@ -1,6 +1,6 @@
 ---
 title: 마루 야생동물 35종 도감
-description: 동물별 귀여운 그림, 대표 바이옴, 서식 환경과 특징을 살펴보는 마루 월드 야생동물 가이드
+description: 동물별 귀여운 그림, 바이옴, 서식 환경과 특징을 살펴보는 마루 월드 야생동물 가이드
 ---
 
 import WildlifeCards from '@site/src/components/WildlifeCards';
@@ -11,10 +11,6 @@ import WildlifeCards from '@site/src/components/WildlifeCards';
 
 **그림을 보고 마음에 드는 동물을 찾은 다음, 해당 환경을 탐험해 보세요!**
 
-:::tip 서식지 안내
-아래 바이옴은 **탐험을 돕기 위한 대표 서식 환경**입니다. 실제 생성 여부와 확률은 서버의 동물 스폰 설정에 따라 달라집니다. 확정되지 않은 스폰 확률은 표기하지 않았어요.
-:::
-
 <WildlifeCards />
 
 ## 🧭 탐험할 때 참고하세요
@@ -24,6 +20,3 @@ import WildlifeCards from '@site/src/components/WildlifeCards';
 - **해안과 바다**에서는 게·투구게부터 고래와 대형 오징어까지 다양한 생물을 만나볼 수 있어요.
 - **설원·사막·산악**에는 특정 환경에 어울리는 동물도 있어요.
 
-:::note
-동물 그림은 이름과 모습을 알아보기 쉽게 제작한 **도트풍 도감 일러스트**입니다. 게임 내 실제 모델의 모습은 다를 수 있어요.
-:::
