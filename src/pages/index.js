@@ -7,7 +7,8 @@ const cards = [
   ['🏆','mcMMO 성장','스킬과 능력을 익히는 방법','/guide/content/mcmmo'],
   ['🎣','낚시','한국 물고기 24종, 토템, 미끼와 배달','/guide/content/fishing'],
   ['🍳','마루 요리','요리책과 50종 레시피, 음식별 효과','/guide/content/cooking'],
-  ['🐾','야생동물','30종 동물 도감 · 서식지 · 먹이와 번식','/guide/content/wildlife'],
+  ['🐾','야생동물','새로운 동물 35종 · 서식 환경 · 모델','/guide/content/wildlife'],
+  ['🎒','개인 가방','Shift+F · 창고 5개 · 추가권 제작법','/guide/systems/backpack'],
   ['🎮','미니게임','CS어택 · TNT런 · 배드워즈','/guide/content/minigames'],
   ['⌨️','이동·홈·명령어','TPA, 셋홈, 스폰, 로그 조사 사용법','/guide/help/commands']
 ];
